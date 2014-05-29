@@ -9,8 +9,6 @@ tags: [ruby]
 Coming to Ruby and it's dependency management system has been a little confusing
 as it is so very different compared to Python's system.
 
-~~ You're out! ~~
-
 ### Python
 
 Python's "best practices" for dependency management revolve around virtualenv
