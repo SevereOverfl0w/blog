@@ -2,7 +2,6 @@
 layout: post
 title:  "The state of Python on the web"
 date:   2014-05-27 11:20:39
-categories: python web
 tags: [python, web]
 ---
 
