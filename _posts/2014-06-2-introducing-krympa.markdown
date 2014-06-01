@@ -5,8 +5,9 @@ date:   2014-06-02 15:18:10
 tags: [python, pyramid]
 ---
 
-I have just finished building 0.0.0 of Krympa, my URL shortener built in Pyramid
-/Python. It was an interesting experience. I based a lot of the code on
+I have just finished building 0.0.0 of
+[Krympa](http://github.com/SevereOverfl0w/Krympa), my URL shortener built in
+Pyramid/Python. It was an interesting experience. I based a lot of the code on
 Flask-Dwarfr, my Flask based URL shortener.
 
 From an outwards view, Flask was MUCH simpler to implement and design, the code
